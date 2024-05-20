@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace prySosaEtapa7
 {
-    public partial class Form1 : Form
+    public partial class frmMainEtapa7 : Form
     {
-        public Form1()
+        public frmMainEtapa7()
         {
             InitializeComponent();
         }
